@@ -8,3 +8,5 @@ Uses Riverpod for repository providing, as well as replacing usual BLoC with Sta
 App is very basic, but shows usage of `ref.watch`, `ref.read` and `ref.listen`
 
 
+https://github.com/dvitjuks/riverpod-test-app/assets/66364482/d4dec57f-502c-42e5-bf44-c0a546e2e109
+
