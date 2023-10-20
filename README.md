@@ -1,16 +1,10 @@
-# riverpod_test
+# Riverpod Test App
 
-A new Flutter project.
+Little app to test out same clean architecture separation as I use while working with BLoC
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+Uses Riverpod for repository providing, as well as replacing usual BLoC with StateNotifier
+App is very basic, but shows usage of `ref.watch`, `ref.read` and `ref.listen`
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
